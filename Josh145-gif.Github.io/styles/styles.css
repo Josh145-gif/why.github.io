@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(23, 23, 201);
+    background-color: rgb(208, 243, 231);
+}
+li{font-size: 14px;
+color: rgb(0, 0, 0);
+font-style:normal
+font-weight: normal;
+}
+a {color: rgb(4, 42, 42);
+text-decoration: none;}
+a:visited {color: rgb(43, 0, 255);}
+a:hover{text-decoration: underline;
+font-weight: bold;}
+.resumelist{font-weight: bolder;
+font-style: normal;
+}
+.underline {text-decoration: underline;}
+.justify{text-align: justify;}
+
+
+.homebg {
+    background-image: url('../images/Man_this_dumb.jpeg');
+    background-position: top right;
+    background-repeat: ;
+}
+.standard {color: black;
+font-size: 20px;
+font-weight: 400;}
+
+

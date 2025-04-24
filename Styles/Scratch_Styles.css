@@ -1,0 +1,14 @@
+body{font-family: serif;
+    font-size: 17px;
+    color: rgb(5, 5, 76);
+    background-color: rgb(196, 200, 199);}
+    
+    a {color: rgb(4, 42, 42);
+        text-decoration: none;}
+        a:visited {color: rgb(43, 0, 255);}
+        a:hover{text-decoration: underline;
+        font-weight: bold;}
+        .resumelist{font-weight: bolder;
+        font-style: normal;}
+
+   B {box-sizing: border-box;}
